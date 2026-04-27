@@ -1,4 +1,4 @@
-# 🔐 Network Packet Analysis & MITM Attack Lab
+#  Network Packet Analysis & MITM Attack Lab
 
 A practical cybersecurity lab project focused on packet capture, traffic inspection, and Man-in-the-Middle (MITM) attack simulation using industry-relevant tools.
 
