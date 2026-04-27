@@ -50,6 +50,7 @@ All commands used in this project are available in `commands.sh`.
 network-packet-analysis-mitm-lab/
 
 │── README.md
+│── project.pdf
 │── commands.sh
 
 Key Learnings:
