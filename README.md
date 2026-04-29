@@ -1,4 +1,4 @@
-![Project Banner](Banner.PNG)
+![Project Banner](banner.png)
 
 #  Network Packet Analysis & MITM Attack Lab
 
