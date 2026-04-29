@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Network Packet Analysis & MITM Attack Lab
+# Professional Commands File
+# Author: Senha Fathimaa
+
 # TCPDUMP
 sudo tcpdump -i wlan0 -nn
 sudo tcpdump -i wlan0 tcp
